@@ -1,0 +1,8 @@
+{
+  "name": "pokemon",
+  "app_id": "523e073a",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
